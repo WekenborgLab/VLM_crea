@@ -96,6 +96,25 @@ A timestamped folder is created in `OUTPUT_DIR` containing:
   - `natural_light.csv` / `natural_light.xlsx`
   - `greenness.csv` / `greenness.xlsx`
   - `insideoutside.csv` / `insideoutside.xlsx`
+  - `socialdensity.csv`/ `socialdensitiy.xlsx`
+  - `animals.csv` / `animals.xlsx`
+  - `food_drinks.csv` / `food_drinks.xlsx`
+  - `digital_gadget.csv` / `digital_gadget.xlsx`
+  - `gadgets_media.csv` / `gadgets_media.xlsx`
+  - `smartphone.csv` / `smartphone.xlsx`
+  - `pc.csv` / `pc.xlsx`
+  - `laptop.csv` / `laptop.xlsx`
+  - `tv.csv` / `tv.xlsx`
+  - `flatscreen.csv` / `flatscreen.xlsx`
+  - `smartwatch.csv` / `smartwatch.xlsx`
+  - `tablet.csv` / `tablet.xlsx`
+  - `monitor.csv` / `monitor.xlsx`
+  - `display.csv` / `display.xlsx`
+  - `camera.csv` / `camera.xlsx`
+  - `electronic_wearable_device.csv` / `electronic_wearable_device.xlsx`
+  - `ebook_reader.csv` / `ebook_reader.xlsx`
+  - `screen.csv` / `screen.xlsx`
+  - `temperature.csv` / `temperature.xlsx`
 
 - **Metadata and logs**:
   - `tokens.json` / `tokens.csv` - Token usage per job and overall
