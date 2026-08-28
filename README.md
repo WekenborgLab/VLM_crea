@@ -8,7 +8,7 @@ VLM_crea is a compact framework for image evaluation.
 
 VLM_crea consists of three main pipelines:
 
-## Image Evaluation (Greeness Pipeline)**  
+## Image Evaluation (Greeness Pipeline)
    Extracts and downsizes images, creates multimodal LLM/VLM jobs, evaluates them, and exports CSV/Excel/JSON outputs.
 
 
