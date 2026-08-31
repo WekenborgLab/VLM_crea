@@ -1,0 +1,16 @@
+# Secrets — never commit the populated .env (.env.example is tracked)
+.env
+
+# Environments / caches
+.venv
+__pycache__/
+*.py[cod]
+
+# Run outputs
+results/
+outputs/
+
+# Editor / OS cruft
+.idea/
+.vscode/
+.DS_Store
