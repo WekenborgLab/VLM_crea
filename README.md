@@ -31,30 +31,30 @@ For every image and every category in `CATEGORIES`, the pipeline sends one reque
 
 All 24 categories use the same 1–10 presence scale and the same prompt.
 
-- **SocialDensity**:
+- **SocialDensity**
 - **NatureScore**: Overall naturalness of the scene
 - **InsideOutside**: Indoor vs outdoor classification
-- **Animals**:
-- **FoodDrinks**:
+- **Animals**
+- **FoodDrinks**
 - **Greenness**: Green color intensity
-- **DigitalGadget**:
-- **GadgetsMedia**:
+- **DigitalGadget**
+- **GadgetsMedia**
 - **PlantPresence**: Amount of vegetation visible
 - **NaturalLightExposure**: Natural light availability
-- **Smartphone**:
-- **PC**:
-- **Laptop**:
-- **TV**:
-- **Flatscreen**:
-- **Smartwatch**:
-- **Tablet**:
-- **Monitor**:
-- **Display**:
-- **Camera**:
-- **ElectronicWearableDevice**:
-- **eBookReader**:
-- **Screen**:
-- **Temperature**:
+- **Smartphone**
+- **PC**
+- **Laptop**
+- **TV**
+- **Flatscreen**
+- **Smartwatch**
+- **Tablet**
+- **Monitor**
+- **Display**
+- **Camera**
+- **ElectronicWearableDevice**
+- **eBookReader**
+- **Screen**
+- **Temperature**
 
 The list is supplied at runtime — see `CATEGORIES` in `.env.example`.
 
